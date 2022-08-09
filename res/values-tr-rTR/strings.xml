@@ -641,19 +641,19 @@
     <string name="lock_screen_custom_clock_face_spark">Spark</string>
     <string name="lock_screen_custom_clock_face_spark_circle">Spark çemberi</string>
     <!-- Custom settings dashboard style -->
-    <string name="settings_dashboard_style_title">Main menu layout</string>
+    <string name="settings_dashboard_style_title">Ana menü düzeni</string>
     <string name="settings_dashboard_style_aosp">Aosp</string>
     <string name="settings_dashboard_style_oos11">OxygenOS 11</string>
     <string name="settings_dashboard_style_oos12">OxygenOS 12</string>
     <string name="settings_dashboard_style_spark">Spark</string>
     <string name="settings_dashboard_style_spark_clean">Spark Clean</string>
     <string name="settings_layout_category_title">Ayarlar kullanıcı arayüzü</string>
-    <string name="settings_base_style_title">Sub-menus header</string>
-    <string name="settings_base_style_summary">Use an alternative layout for the header in the sub-menus of Settings</string>
-    <string name="settings_home_style_title">Main menu header</string>
-    <string name="settings_home_style_summary">Use stock aosp layout for the header in the main menu of Settings</string>
-    <string name="disable_usercard_title">UserCard</string>
-    <string name="disable_usercard_summary">Toggle in order not to show the usercard on main menu of Settings</string>
+    <string name="settings_base_style_title">Alt menü başlığı</string>
+    <string name="settings_base_style_summary">Ayarlar\'ın alt menülerinde başlık için alternatif bir düzen kullanın</string>
+    <string name="settings_home_style_title">Ana menü başlığı</string>
+    <string name="settings_home_style_summary">Ayarlar ana menüsündeki başlık için stok aosp düzenini kullanın</string>
+    <string name="disable_usercard_title">Kullanıcı Kartı</string>
+    <string name="disable_usercard_summary">Ayarlar ana menüsünde kullanıcı kartının gösterilmemesi için geçiş yapın</string>
     <!-- Application downgrade -->
     <string name="app_downgrade_title">Uygulamanın eski sürüme geçirilmesine izin ver</string>
     <string name="app_downgrade_summary">Uygulamaların düşük sürümlerini kurabilmek için aktif edin. Bu bozulmalara ve çökmelere sebep olabilir.</string>
