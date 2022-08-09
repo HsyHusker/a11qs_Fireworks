@@ -641,19 +641,19 @@
     <string name="lock_screen_custom_clock_face_spark">Spark</string>
     <string name="lock_screen_custom_clock_face_spark_circle">Círculo Spark</string>
     <!-- Custom settings dashboard style -->
-    <string name="settings_dashboard_style_title">Main menu layout</string>
+    <string name="settings_dashboard_style_title">Layout do menu principal</string>
     <string name="settings_dashboard_style_aosp">Aosp</string>
     <string name="settings_dashboard_style_oos11">OxygenOS 11</string>
     <string name="settings_dashboard_style_oos12">OxygenOS 12</string>
     <string name="settings_dashboard_style_spark">Spark</string>
     <string name="settings_dashboard_style_spark_clean">Spark Clean</string>
     <string name="settings_layout_category_title">Configurações da interface do sistema</string>
-    <string name="settings_base_style_title">Sub-menus header</string>
-    <string name="settings_base_style_summary">Use an alternative layout for the header in the sub-menus of Settings</string>
-    <string name="settings_home_style_title">Main menu header</string>
-    <string name="settings_home_style_summary">Use stock aosp layout for the header in the main menu of Settings</string>
-    <string name="disable_usercard_title">UserCard</string>
-    <string name="disable_usercard_summary">Toggle in order not to show the usercard on main menu of Settings</string>
+    <string name="settings_base_style_title">Cabeçalho dos submenus</string>
+    <string name="settings_base_style_summary">Use um layout alternativo para o cabeçalho nos submenus de Configurações</string>
+    <string name="settings_home_style_title">Cabeçalho do menu principal</string>
+    <string name="settings_home_style_summary">Use layout aosp padrão para o cabeçalho no menu principal de configurações</string>
+    <string name="disable_usercard_title">Cartão do usuário</string>
+    <string name="disable_usercard_summary">Alterne para não mostrar o cartão de usuário na tela de configurações</string>
     <!-- Application downgrade -->
     <string name="app_downgrade_title">Permitir retornar para versões anteriores do aplicativo</string>
     <string name="app_downgrade_summary">Isso permite que você retorne para uma versão mais antiga de um aplicativo sem precisar remover o atual. Note que isso pode levar a travamentos e perda de dados.</string>
