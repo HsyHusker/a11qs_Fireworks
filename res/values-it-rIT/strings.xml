@@ -31,7 +31,7 @@
     <string name="general_category">Generale</string>
     <string name="flashlight_category">Torcia</string>
     <string name="qs_category">Personalizzazioni Qs</string>
-    <string name="battery_category">Energy saving Configurations</string>
+    <string name="battery_category">Configurazioni risparmio energetico</string>
     <!-- AdBlock -->
     <string name="hosts_block_title">Blocco annunci</string>
     <string name="hosts_block_summary">Blocca annunci con un file di host modificato. Disattivalo per usare soluzioni di terze parti o se le app causano problemi.</string>
@@ -558,6 +558,7 @@
     <string name="artwork_media_background_summary">Imposta copertina multimediale come sfondo di notifica</string>
     <string name="artwork_media_background_enable_blur_title">Sfoca lo sfondo della grafica multimediale</string>
     <string name="artwork_media_background_blur_radius_title">Livello di sfocatura per la grafica multimediale</string>
+    <string name="artwork_media_background_fade_filter_title">Livello di sfocatura per la copertina dei media</string>
     <string name="artwork_media_background_alpha_title">Trasparenza della grafica multimediale</string>
     <!-- Lock screen album art filter -->
     <string name="lockscreen_albumart_filter_title">Filtro copertina multimediale</string>
@@ -640,19 +641,19 @@
     <string name="lock_screen_custom_clock_face_spark">Spark</string>
     <string name="lock_screen_custom_clock_face_spark_circle">Spark Cerchio</string>
     <!-- Custom settings dashboard style -->
-    <string name="settings_dashboard_style_title">Layout impostazioni</string>
+    <string name="settings_dashboard_style_title">Main menu layout</string>
     <string name="settings_dashboard_style_aosp">AOSP</string>
     <string name="settings_dashboard_style_oos11">OxygenOS 11</string>
     <string name="settings_dashboard_style_oos12">OxygenOS 12</string>
     <string name="settings_dashboard_style_spark">Spark</string>
     <string name="settings_dashboard_style_spark_clean">Spark Clean</string>
     <string name="settings_layout_category_title">Interfaccia utente delle impostazioni</string>
-    <string name="settings_base_style_title">Layout base impostazioni</string>
-    <string name="settings_base_style_summary">Usa un layout alternativo per il menu delle impostazioni</string>
-    <string name="settings_home_style_title">Layout impostazioni</string>
-    <string name="settings_home_style_summary">Usa layout AOSP stock per schermata iniziale</string>
-    <string name="disable_usercard_title">Impostazioni Scheda Utente</string>
-    <string name="disable_usercard_summary">Attiva o disattiva per non mostrare la scheda utente nella pagina delle impostazioni principali</string>
+    <string name="settings_base_style_title">Sub-menus header</string>
+    <string name="settings_base_style_summary">Use an alternative layout for the header in the sub-menus of Settings</string>
+    <string name="settings_home_style_title">Main menu header</string>
+    <string name="settings_home_style_summary">Use stock aosp layout for the header in the main menu of Settings</string>
+    <string name="disable_usercard_title">UserCard</string>
+    <string name="disable_usercard_summary">Toggle in order not to show the usercard on main menu of Settings</string>
     <!-- Application downgrade -->
     <string name="app_downgrade_title">Consenti il downgrade dell\'applicazione</string>
     <string name="app_downgrade_summary">Questo ti permette di eseguire il downgrade delle applicazioni. Nota che questo potrebbe portare a crash e corruzione dei dati.</string>
@@ -720,30 +721,30 @@
     <string name="qs_enable_morphing">Abilita morphing sui tile QS</string>
     <string name="qs_invert_morphing">Scambia Morphing sui tile QS</string>
     <!-- Sensor block per-package -->
-    <string name="sensor_block_title">Sensor block per-package</string>
-    <string name="sensor_block_summary">Block access to certain sensors for some apps to save battery</string>
-    <string name="sensor_block_app_picker_title">Block sensors for these apps</string>
-    <string name="add_sensor_block_package_title">Add apps for Sensor block</string>
-    <string name="add_sensor_block_package_summary">Significant motion, accelerometer, linear acceleration sensors will be blocked for these apps</string>
-    <string name="profile_choose_app">Choose app</string>
+    <string name="sensor_block_title">Blocco sensori per app</string>
+    <string name="sensor_block_summary">Blocca l\'accesso di alcune app a determinati sensori per risparmiare batteria</string>
+    <string name="sensor_block_app_picker_title">Blocca i sensori per queste app</string>
+    <string name="add_sensor_block_package_title">Aggiungi app per il blocco sensori</string>
+    <string name="add_sensor_block_package_summary">I sensori di movimento, l\'accelerometro, i sensori di accelerazione lineare saranno bloccati per queste app</string>
+    <string name="profile_choose_app">Scegli app</string>
     <string name="dialog_delete_title">Elimina</string>
-    <string name="dialog_delete_message">Remove selected item?</string>
+    <string name="dialog_delete_message">Rimuovere l\'elemento selezionato?</string>
     <!-- Status Bar Ticker -->
     <string name="ticker_title">Ticker</string>
-    <string name="ticker_summary">Show notifications ticker-style in status bar</string>
-    <string name="ticker_screen_footer">Ticker is visible only when notification heads-up is not shown. Devices with center notch should hide cutout under User Interface settings or under Developer options.</string>
-    <string name="ticker_screen_title">Status bar ticker</string>
-    <string name="ticker_disabled">No ticker</string>
-    <string name="ticker_enabled">Notification ticker</string>
-    <string name="ticker_media_enabled">Notifications and music ticker</string>
-    <string name="ticker_animation_mode_title">Ticker animation style</string>
-    <string name="ticker_animation_mode_alpha_fade">Fade</string>
-    <string name="ticker_animation_mode_scroll">Scroll</string>
-    <string name="ticker_tick_duration_title">Ticker duration</string>
+    <string name="ticker_summary">Mostra le notifiche in stile ticker sulla barra di stato</string>
+    <string name="ticker_screen_footer">Il Ticker è visibile solo quando la notifica fluttuante non viene visualizzata. I dispositivi con il notch centrale dovrebbero nasconderlo nelle impostazioni dell\'interfaccia o nelle opzioni sviluppatore.</string>
+    <string name="ticker_screen_title">Ticker barra di stato</string>
+    <string name="ticker_disabled">Nessun ticker</string>
+    <string name="ticker_enabled">Ticker di notifica</string>
+    <string name="ticker_media_enabled">Ticker di notifiche e musica</string>
+    <string name="ticker_animation_mode_title">Stile animazione Ticker</string>
+    <string name="ticker_animation_mode_alpha_fade">Sfuma</string>
+    <string name="ticker_animation_mode_scroll">Scorri</string>
+    <string name="ticker_tick_duration_title">Durata del ticker</string>
     <!-- Laboratory - Strict standby -->
-    <string name="strict_standby_policy_title">Strict standby policy</string>
-    <string name="strict_standby_policy_summary">When dismissing from recents, this will force stop apps with restricted battery usage and impose stronger restrictions to them. Also, all app standby restrictions will be imposed even when device is charging.</string>
+    <string name="strict_standby_policy_title">Politica di standby rigorosa</string>
+    <string name="strict_standby_policy_summary">Quando eliminate dai recenti, questo forzerà la chiusura delle app con un uso limitato della batteria e imporrà loro restrizioni più forti. Inoltre, tutte le restrizioni saranno imposte anche quando il dispositivo è in carica.</string>
     <!-- Force background freezer -->
-    <string name="force_background_freezer_title">Background tasks freezer</string>
-    <string name="force_background_freezer_summary">Freeze tasks with restricted battery usage when moving them to background and unfreeze them when moving to foreground. This could save battery slightly but may lead to crashes and background ANR.</string>
+    <string name="force_background_freezer_title">Congelatore attività in background</string>
+    <string name="force_background_freezer_summary">Congela le attività con un uso ristretto della batteria quando spostate in background e le sblocca quando spostate in primo piano. Questo può far risparmiare un po\' di batteria ma può portare a crash e ANR in background.</string>
 </resources>
