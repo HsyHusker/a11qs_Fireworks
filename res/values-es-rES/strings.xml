@@ -429,7 +429,7 @@
     <string name="hardware_keys_long_tap_key_title">Pulsación larga</string>
     <string name="hardware_keys_swipe_tap_title">Acción al deslizar</string>
     <string name="hardware_keys_long_tap_title">Acción de pulsación larga</string>
-    <string name="camera_sleep_on_release_title">Vistazo a la pantalla</string>
+    <string name="camera_sleep_on_release_title">Vistazo de pantalla</string>
     <string name="camera_sleep_on_release_summary">Una leve pulsación mantendrá la pantalla encendida mientras se mantenga presionado el botón</string>
     <string name="camera_launch_title">Abrir cámara</string>
     <string name="camera_launch_summary">Una pulsación larga y soltar abrirá la cámara</string>
@@ -558,7 +558,7 @@
     <string name="artwork_media_background_summary">Usar carátula multimedia como fondo de notificación</string>
     <string name="artwork_media_background_enable_blur_title">Desenfoque del fondo de carátula</string>
     <string name="artwork_media_background_blur_radius_title">Desenfoque de la carátula</string>
-    <string name="artwork_media_background_fade_filter_title">Fade amount for media artwork</string>
+    <string name="artwork_media_background_fade_filter_title">Transparencia de la carátula</string>
     <string name="artwork_media_background_alpha_title">Transparencia de la carátula</string>
     <!-- Lock screen album art filter -->
     <string name="lockscreen_albumart_filter_title">Filtro para la carátula</string>
