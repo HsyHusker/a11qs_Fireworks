@@ -79,7 +79,7 @@
     <string name="torch_long_press_power_timeout_2min">2 минут</string>
     <string name="torch_long_press_power_timeout_5min">5 минут</string>
     <string name="torch_long_press_power_timeout_10min">10 минут</string>
-    <string name="aosp_gesture_summary">Стоковые жесты Android</string>
+    <string name="aosp_gesture_summary">Стандартные жесты Android</string>
     <!-- Double Tap Lock screen to Sleep -->
     <string name="double_tap_to_sleep_lockscreen_title">Скрывать на защищённом экране блокировки</string>
     <string name="double_tap_to_sleep_lockscreen_summary">Дважды коснитесь верхней части или в области ярлыков экрана блокировки, чтобы отправить устройство в режим сна</string>
@@ -558,7 +558,7 @@
     <string name="artwork_media_background_summary">Установить обложку медиа в виде фона</string>
     <string name="artwork_media_background_enable_blur_title">Размытие фона медиа-медиа</string>
     <string name="artwork_media_background_blur_radius_title">Степень размытия для медиа-арта</string>
-    <string name="artwork_media_background_fade_filter_title">Fade amount for media artwork</string>
+    <string name="artwork_media_background_fade_filter_title">Степень прозрачности фона обложки</string>
     <string name="artwork_media_background_alpha_title">Прозрачность медиа-арта</string>
     <!-- Lock screen album art filter -->
     <string name="lockscreen_albumart_filter_title">Фильтр обложки медиа</string>
@@ -641,19 +641,19 @@
     <string name="lock_screen_custom_clock_face_spark">Spark</string>
     <string name="lock_screen_custom_clock_face_spark_circle">Spark Круг</string>
     <!-- Custom settings dashboard style -->
-    <string name="settings_dashboard_style_title">Main menu layout</string>
+    <string name="settings_dashboard_style_title">Макет главного меню настроек</string>
     <string name="settings_dashboard_style_aosp">AOSP</string>
     <string name="settings_dashboard_style_oos11">Oxygen OS 11</string>
     <string name="settings_dashboard_style_oos12">Oxygen OS 12</string>
     <string name="settings_dashboard_style_spark">Spark</string>
     <string name="settings_dashboard_style_spark_clean">Чистый Spark</string>
     <string name="settings_layout_category_title">Настройки интерфейса настроек</string>
-    <string name="settings_base_style_title">Sub-menus header</string>
-    <string name="settings_base_style_summary">Use an alternative layout for the header in the sub-menus of Settings</string>
+    <string name="settings_base_style_title">Заголовок подменю</string>
+    <string name="settings_base_style_summary">Использовать альтернативный макет для заголовка в подменю Настройки</string>
     <string name="settings_home_style_title">Заголовок главного меню</string>
-    <string name="settings_home_style_summary">Use stock aosp layout for the header in the main menu of Settings</string>
+    <string name="settings_home_style_summary">Использовать стандартный макет для заголовка в главном меню настроек</string>
     <string name="disable_usercard_title">Карточка пользователя</string>
-    <string name="disable_usercard_summary">Toggle in order not to show the usercard on main menu of Settings</string>
+    <string name="disable_usercard_summary">Включите, чтобы не показывать карточку пользователя в главном меню настроек</string>
     <!-- Application downgrade -->
     <string name="app_downgrade_title">Разрешить понижение версии приложения</string>
     <string name="app_downgrade_summary">Это позволит вам понизить версию приложений. Обратите внимание, что это может привести к сбоям и повреждению данных.</string>
