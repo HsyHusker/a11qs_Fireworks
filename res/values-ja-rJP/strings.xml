@@ -558,7 +558,7 @@
     <string name="artwork_media_background_summary">メディアアートワークをメディア通知の背景に設定する</string>
     <string name="artwork_media_background_enable_blur_title">メディアアートワークの背景をぼかす</string>
     <string name="artwork_media_background_blur_radius_title">メディアアートワークのぼかし量</string>
-    <string name="artwork_media_background_fade_filter_title">Fade amount for media artwork</string>
+    <string name="artwork_media_background_fade_filter_title">メディアアートワークのフェード量</string>
     <string name="artwork_media_background_alpha_title">メディアアートワークの透明度</string>
     <!-- Lock screen album art filter -->
     <string name="lockscreen_albumart_filter_title">メディアカバーアートフィルター</string>
@@ -641,19 +641,19 @@
     <string name="lock_screen_custom_clock_face_spark">Spark</string>
     <string name="lock_screen_custom_clock_face_spark_circle">Spark Circle</string>
     <!-- Custom settings dashboard style -->
-    <string name="settings_dashboard_style_title">Main menu layout</string>
+    <string name="settings_dashboard_style_title">メインメニューのレイアウト</string>
     <string name="settings_dashboard_style_aosp">AOSP</string>
     <string name="settings_dashboard_style_oos11">OxygenOS 11</string>
     <string name="settings_dashboard_style_oos12">OxygenOS 12</string>
     <string name="settings_dashboard_style_spark">Spark</string>
     <string name="settings_dashboard_style_spark_clean">Spark Clean</string>
     <string name="settings_layout_category_title">設定 UI のインターフェース</string>
-    <string name="settings_base_style_title">Sub-menus header</string>
-    <string name="settings_base_style_summary">Use an alternative layout for the header in the sub-menus of Settings</string>
-    <string name="settings_home_style_title">Main menu header</string>
-    <string name="settings_home_style_summary">Use stock aosp layout for the header in the main menu of Settings</string>
-    <string name="disable_usercard_title">UserCard</string>
-    <string name="disable_usercard_summary">Toggle in order not to show the usercard on main menu of Settings</string>
+    <string name="settings_base_style_title">サブメニューのヘッダー</string>
+    <string name="settings_base_style_summary">設定のサブメニューで代替のヘッダーレイアウトを使用する</string>
+    <string name="settings_home_style_title">メインメニューのヘッダー</string>
+    <string name="settings_home_style_summary">設定のメインメニューで標準 AOSP のヘッダーレイアウトを使用する</string>
+    <string name="disable_usercard_title">ユーザーカード</string>
+    <string name="disable_usercard_summary">設定アプリのメインメニューにユーザーカードを表示しないように切り替える</string>
     <!-- Application downgrade -->
     <string name="app_downgrade_title">アプリのダウングレードを許可</string>
     <string name="app_downgrade_summary">アプリのダウングレードを許可します。クラッシュやデータの破損に繋がる可能性があることに注意して下さい。</string>
