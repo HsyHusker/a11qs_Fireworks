@@ -650,9 +650,9 @@
     <string name="settings_layout_category_title">Настройки интерфейса настроек</string>
     <string name="settings_base_style_title">Sub-menus header</string>
     <string name="settings_base_style_summary">Use an alternative layout for the header in the sub-menus of Settings</string>
-    <string name="settings_home_style_title">Main menu header</string>
+    <string name="settings_home_style_title">Заголовок главного меню</string>
     <string name="settings_home_style_summary">Use stock aosp layout for the header in the main menu of Settings</string>
-    <string name="disable_usercard_title">UserCard</string>
+    <string name="disable_usercard_title">Карточка пользователя</string>
     <string name="disable_usercard_summary">Toggle in order not to show the usercard on main menu of Settings</string>
     <!-- Application downgrade -->
     <string name="app_downgrade_title">Разрешить понижение версии приложения</string>
