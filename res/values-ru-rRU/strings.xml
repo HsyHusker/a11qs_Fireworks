@@ -148,7 +148,7 @@
     <string name="powermenu_emergency">Экстренный вызов</string>
     <!-- Power menu on lockscreen -->
     <string name="lockscreen_power_menu_disabled_title">Отключить меню питания на экране блокировки</string>
-    <string name="lockscreen_power_menu_disabled_summary">Это отключит меню питания только на защищенных экранах блокировки</string>
+    <string name="lockscreen_power_menu_disabled_summary">Это отключит меню питания только на защищённых экранах блокировки</string>
     <!-- QS advanced settings -->
     <string name="status_bar_quick_qs_pulldown">Быстрый доступ к панели быстрых настроек</string>
     <string name="quick_pulldown_none">Отключено</string>
@@ -161,7 +161,7 @@
     <string name="fprint_success_vib_title">Вибрация при разблокировке по отпечатку пальца</string>
     <string name="fprint_success_vib_summary">Вибрация при успешной разблокировке по отпечатку пальца</string>
     <!-- Monet Engine -->
-    <string name="monet_engine_title">Monet engine</string>
+    <string name="monet_engine_title">Движок Монет</string>
     <string name="monet_engine_summary">Настройка движка Монет</string>
     <string name="monet_engine_custom_color_title">Использовать свой цвет</string>
     <string name="monet_engine_custom_color_summary">Использовать собственные цвета для движка Монет вместо цветов обоев</string>
@@ -169,7 +169,7 @@
     <string name="monet_engine_white_luminance_user_title">Белая яркость</string>
     <string name="monet_engine_accurate_shades_title">Использование точечных оттенков</string>
     <string name="monet_engine_chroma_factor_title">Цветовой фактор</string>
-    <string name="monet_engine_linear_lightness_title">Использование линейной легкости</string>
+    <string name="monet_engine_linear_lightness_title">Использование линейной лёгкости</string>
     <!-- Black theme -->
     <string name="system_black_theme_title">Использование чёрной темы</string>
     <string name="system_black_theme_summary">Принудительный чёрный цвет фона</string>
@@ -185,7 +185,7 @@
     <string name="screen_off_animation_scale">Шкала</string>
     <!-- Notification count -->
     <string name="status_bar_notif_count_title">Показать счётчик уведомлений</string>
-    <string name="status_bar_notif_count_summary">Показывать количество не просмотренных уведомлений</string>
+    <string name="status_bar_notif_count_summary">Показывать количество непросмотренных уведомлений</string>
     <!-- Show old style mobile data icon -->
     <string name="use_old_mobiletype_title">Использовать старый стиль значков сети</string>
     <string name="use_old_mobiletype_summary">Показывать значок мобильной сети над индикатором сигнала</string>
@@ -198,10 +198,10 @@
     <!-- Screenshot type -->
     <string name="screenshot_type_title">Тип скриншота</string>
     <string name="screenshot_type_fullscreen">Снимок всего экрана</string>
-    <string name="screenshot_type_partial">Скриншот выделеной области экрана</string>
+    <string name="screenshot_type_partial">Скриншот выделенной области экрана</string>
     <!-- Status bar - Clock -->
     <string name="status_bar_clock_title">Настройки часов и даты</string>
-    <string name="status_bar_clock_summary">Изменить вид часов &amp; даты</string>
+    <string name="status_bar_clock_summary">Изменить вид часов и даты</string>
     <string name="status_bar_clock_seconds_title">Показывать секунды</string>
     <string name="status_bar_clock_seconds_summary">Отображать секунды рядом с часами в строке состояния</string>
     <string name="status_bar_clock_position_title">Стиль часов</string>
@@ -231,7 +231,7 @@
     <string name="status_bar_date_style_lowercase">В нижнем регистре</string>
     <string name="status_bar_date_style_uppercase">В верхнем регистре</string>
     <string name="status_bar_date_format_custom">Пользовательский Java-формат</string>
-    <string name="status_bar_date_string_edittext_title">Должен быть в формате даты, например. ММ/дд/гг</string>
+    <string name="status_bar_date_string_edittext_title">Должен быть в формате даты, например: ММ/дд/гг</string>
     <string name="status_bar_date_string_edittext_summary">Введите строку</string>
     <string name="clock_date_position">Расположение даты</string>
     <string name="clock_date_right">Справа от времени</string>
@@ -246,7 +246,7 @@
     <string name="pulse_category">Импульсный музыкальный визуализатор</string>
     <string name="pulse_help_policy_notice_title">Информация о Пульсе</string>
     <string name="unit_milliseconds">миллисекунды</string>
-    <string name="pulse_help_policy_notice_summary">Пульс - великолепный звуковой графический эквалайзер, когда на устройстве играет музыка</string>
+    <string name="pulse_help_policy_notice_summary">Пульс — великолепный звуковой графический эквалайзер, когда на устройстве играет музыка</string>
     <string name="pulse_settings">Пульс</string>
     <string name="pulse_settings_summary">Аудио-графический эквалайзер для панели навигации и экрана блокировки</string>
     <string name="show_navbar_pulse_title">Пульс в панели навигации</string>
@@ -255,7 +255,7 @@
     <string name="show_lockscreen_pulse_summary">Аудио графический эквалайзер на экране блокировки</string>
     <string name="show_ambient_pulse_title">Пульс (эффект окружения)</string>
     <string name="show_ambient_pulse_summary">Аудио-графический эквалайзер на экране</string>
-    <string name="pulse_render_mode_title">Режим рендеринга</string>
+    <string name="pulse_render_mode_title">Режим визуализации</string>
     <string name="pulse_render_mode_fading_bars">Затухающие блоки</string>
     <string name="pulse_render_mode_solid_lines">Сплошные линии</string>
     <string name="pulse_legacy_mode_advanced_category">Настройки режима затухающих блоков</string>
@@ -486,8 +486,8 @@
     <string name="flashlight_on_call_no_ringer">Когда звонок беззвучен</string>
     <string name="flashlight_on_call_silent">Когда звук выключен (без звонка или вибрации)</string>
     <string name="flashlight_on_call_always">Всегда</string>
-    <string name="flashlight_on_call_ignore_dnd_title">Игнорировать Не беспокоить</string>
-    <string name="flashlight_on_call_ignore_dnd_summary">Мигать ли в режиме Не беспокоить</string>
+    <string name="flashlight_on_call_ignore_dnd_title">Игнорировать «Не беспокоить»</string>
+    <string name="flashlight_on_call_ignore_dnd_summary">Мигать в режиме «Не беспокоить»</string>
     <string name="flashlight_on_call_rate_title">Оценка</string>
     <string name="flashlight_on_call_rate_summary">Частота мигания вспышки при звонке</string>
     <!-- Statusbar logo -->
@@ -538,7 +538,7 @@
     <string name="status_bar_logo_style_guitar_electric">Электрогитара</string>
     <!-- Custom FOD Icon -->
     <string name="custom_fp_icon_title">Собственный значок отпечатка пальца</string>
-    <string name="custom_fp_icon_summary">Включить пользовательский значок UdFPS из файлов</string>
+    <string name="custom_fp_icon_summary">Включить свой значок отпечатка пальца из файлов</string>
     <string name="custom_fp_select_title">Выбор своего значка отпечатка пальца</string>
     <string name="custom_fp_select_summary">Выберите своё изображение из сохранённых файлов или галереи</string>
     <!-- UDFPS pressed color -->
@@ -548,7 +548,7 @@
     <string name="notification_headers_title">Заголовки уведомлений</string>
     <string name="notification_headers_summary">Показывать заголовки в тени уведомлений</string>
     <!-- reTicker -->
-    <string name="reticker_title">новый стиль уведомлений</string>
+    <string name="reticker_title">Новый стиль уведомлений</string>
     <string name="reticker_summary">Замените ваши уведомления \nих переработанной версией! Тонкие и менее надоедливые, чем стандартные уведомления</string>
     <string name="reticker_colored_title">Цвет фона от приложения</string>
     <string name="reticker_colored_summary">Цвет фона уведомления будет заменён основным цветом приложения</string>
