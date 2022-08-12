@@ -318,12 +318,12 @@
     <string name="battery_bar_summary">عرض شريط البطارية وتخصيصه فوق شريط الحالة</string>
     <string name="battery_bar_color">اللون</string>
     <string name="battery_bar_charging_color">لون الشحن</string>
-    <string name="battery_bar_battery_low_color">Low battery color</string>
-    <string name="battery_bar_style_title">Alignment</string>
-    <string name="battery_bar_thickness_title">Thickness</string>
+    <string name="battery_bar_battery_low_color">لون البطارية المنخفض</string>
+    <string name="battery_bar_style_title">المحاذاة</string>
+    <string name="battery_bar_thickness_title">السماكة</string>
     <string name="battery_bar_animate_title">Charging animation</string>
-    <string name="battery_bar_style_regular">Regular</string>
-    <string name="battery_bar_style_center_mirrored">Center-mirrored</string>
+    <string name="battery_bar_style_regular">عادي</string>
+    <string name="battery_bar_style_center_mirrored">متوسط معكوس</string>
     <string name="battery_bar_style_reversed">Reversed</string>
     <string name="battery_bar_use_charging_color">Custom charging color</string>
     <string name="battery_bar_blend_color_title">Blend colors</string>
